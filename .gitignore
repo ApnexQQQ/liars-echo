@@ -34,3 +34,6 @@ restore_*.py
 static/assets/
 test_*.py
 liarsecho.zip
+
+# Whole dashboard directory -- secrets live here
+dashboard/
