@@ -37,3 +37,4 @@ liarsecho.zip
 
 # Whole dashboard directory -- secrets live here
 dashboard/
+.env_dashboard_backup
