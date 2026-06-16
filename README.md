@@ -103,14 +103,9 @@ liars_echo/
 ├── core/
 │   └── detector.py              # Attack detection engine
 ├── modules/
-│   ├── rabbit_hole.py           # Multi-layer fake environment
 │   ├── classifier.py            # AI threat classification (DeepSeek)
 │   ├── alerting.py              # Telegram alert dispatcher
 │   ├── dna_db.py                # Attack fingerprint database
-│   ├── fake_topology.py         # Fake network topology generator
-│   ├── self_learning.py         # Adaptive learning from attack patterns
-│   ├── slow_poison.py           # Slow-respond poisoning for scrapers
-│   ├── adversarial_noise.py     # Noise injection into fake services
 │   └── pdf_report.py            # PDF threat report generator
 ├── dashboard/
 │   ├── app.py                   # Flask + Socket.IO server
